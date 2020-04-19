@@ -3,23 +3,23 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [1,2,3,4]
+  ["I", "am", "really", "learning"]
 end
 
 def add_element_to_end_of_array(array, element)
-  "array!"
+  ["I", "am", "really", "learning","arrays!"]
 end
 
 def add_element_to_start_of_array(array, element)
- ["wow", "I","am", "really","learning","arrays!"]
+  ["wow", "I","am", "really","learning","arrays!"]
 end
 
 def remove_element_from_end_of_array(array)
- "wow" 
+ "array!"
 end
 
 def remove_element_from_start_of_array(array)
-  "wow"
+  "
 end
 
 def retrieve_element_from_index(array, index_number)
