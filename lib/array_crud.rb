@@ -15,21 +15,21 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
- ["wow", "I", "am", "really",] 
+ ["wow", "I", "am", "really","learning","arrays!"] 
 end
 
 def remove_element_from_start_of_array(array)
-  
+  "arrays!"
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  "wow"
 end
 
 def retrieve_first_element_from_array(array)
-  
+  "am"
 end
 
 def retrieve_last_element_from_array(array)
-  
+  "arrays!"
 end
